@@ -1,27 +1,27 @@
 ﻿Name,Rating,Country,Category,Price,ABV,Age,Brand
-1972 Ridgemont Reserve Kentucky Straight Bourbon Whiskey,83,USA,Bourbon,28,46,NaN,Ridgemont Reserve
-8 Seconds Canadian Whiskey,64,Canada,Blended,30,40,NaN,8 Seconds
-A.H. Hirsch Finest Reserve 20 Bourbon,NaN,USA,Bourbon,280,45,16,A.H. Hirsch
+1972 Ridgemont Reserve Kentucky Straight Bourbon Whiskey,83,USA,Bourbon,28,46,,Ridgemont Reserve
+8 Seconds Canadian Whiskey,64,Canada,Blended,30,40,,8 Seconds
+A.H. Hirsch Finest Reserve 20 Bourbon,,USA,Bourbon,280,45,16,A.H. Hirsch
 Aberfeldy 12 Year Old Single Malt Scotch,96,Scotland,Highlands,30,40,12,Aberfeldy
 Aberfeldy 21 Year Old Single Malt Scotch,94,Scotland,Highlands,150,40,21,Aberfeldy
 Aberlour 16 Year Old Single Malt Scotch,89,Scotland,Speyside,65,43,16,Aberlour
 Aberlour 18 Year Old Single Malt Scotch,99,Scotland,Speyside,100,43,18,Aberlour
 Aberlour A'Bunadh Batch 21 Scotch,90,Scotland,Speyside,63,59.5,21,Aberlour
 Abraham Bowman Rye Whiskey,94,USA,Rye,70,68.2,9,Abraham Bowman
-Amrut Fusion Single Malt Whisky,85,India,Single Malt,65,50,NaN,Amrut
-Amrut Indian Single Malt Whisky,76,India,Single Malt,36,46,NaN,Amrut
-Amrut Indian Single Malt Whisky Cask Strength,91,India,Single Malt,50,61.8,NaN,Amrut
-Amrut Peated Indian Single Malt Whiskey Cask Strength,80,India,Single Malt,85,62.8,NaN,Amrut
-Amrut Peated Indian Single Malt Whisky,76,India,Single Malt,70,46,NaN,Amrut
+Amrut Fusion Single Malt Whisky,85,India,Single Malt,65,50,,Amrut
+Amrut Indian Single Malt Whisky,76,India,Single Malt,36,46,,Amrut
+Amrut Indian Single Malt Whisky Cask Strength,91,India,Single Malt,50,61.8,,Amrut
+Amrut Peated Indian Single Malt Whiskey Cask Strength,80,India,Single Malt,85,62.8,,Amrut
+Amrut Peated Indian Single Malt Whisky,76,India,Single Malt,70,46,,Amrut
 Ancnoc 16 Year Old Single Malt Scotch,94,Scotland,Highlands,60,46,16,Ancnoc
 Ardbeg Airigh Nam Beist Scotch,94,Scotland,Islay,115,46,16,Ardbeg
-Ardbeg Uigeadail,99,Scotland,Islay,80,54.2,NaN,Ardbeg
+Ardbeg Uigeadail,99,Scotland,Islay,80,54.2,,Ardbeg
 Ardmore Traditional Cask Highland Single Malt Scotch Whisky,72,Scotland,Speyside,48,46,30,Ardmore
 Auchentoshan 18-Year Old Single Malt Scotch Whisky,85,Scotland,Lowlands,98,54.7,18,Auchentoshan
 Baker's Kentucky Straight Bourbon Whiskey,76,USA,Bourbon,38,53,7,Jim Beam
-Balblair 1997 Highland Single Malt Scotch Whisky,81,Scotland,Highlands,58,43,NaN,Balblair
+Balblair 1997 Highland Single Malt Scotch Whisky,81,Scotland,Highlands,58,43,,Balblair
 Balblair Single Malt Scotch,92,Scotland,Highlands,109,43,17,Balblair
-Balcones True Blue Cask Strength Corn Whiskey,88,USA,Corn,59,63,NaN,Balcones
+Balcones True Blue Cask Strength Corn Whiskey,88,USA,Corn,59,63,,Balcones
 Balvenie 12 Year Old Doublewood Single Malt Scotch,99,Scotland,Speyside,45,40,12,Balvenie
 Balvenie 14 Year Old Single Malt Scotch,99,Scotland,Speyside,60,43,14,Balvenie
 Balvenie 15 Year Old Single Barrel Single Malt Scotch,86,Scotland,Speyside,49,47.8,15,Balvenie
@@ -29,98 +29,98 @@ Balvenie 17 Year Old Single Malt Scotch,88,Scotland,Speyside,128,43,17,Balvenie
 Balvenie Madeira Cask 17 Year Old Single Malt Scotch Whisky,77,Scotland,Speyside,179,43,17,Balvenie
 Balvenie Portwood 21 Year Old Single Malt Scotch Whisky,84,Scotland,Speyside,160,43,21,Balvenie
 Balvenie Signature 12 Year Old Single Malt Scotch,88,Scotland,Speyside,53,43,12,Balvenie
-Barton Irish Whiskey,81,Ireland,Blended,20,40,NaN,Barton
+Barton Irish Whiskey,81,Ireland,Blended,20,40,,Barton
 Basil Hayden's 8 Year Old Bourbon Whiskey,80,USA,Bourbon,36,40,8,Basil Hayden
-Bell's Scotch Whisky,NaN,Scotland,Blended,NaN,43,NaN,Bell's
-Benchmark Old No. 8 Kentucky Straight Bourbon Whiskey,68,USA,Bourbon,12,40,NaN,Benchmark
+Bell's Scotch Whisky,,Scotland,Blended,,43,,Bell's
+Benchmark Old No. 8 Kentucky Straight Bourbon Whiskey,68,USA,Bourbon,12,40,,Benchmark
 Black Maple Hill 21 Cask 7 Bourbon,94,USA,Bourbon,95,40,21,Black Maple Hill
 Black Maple Hill 23 Year Old Limited Edition Kentucky Straight Rye Whiskey,85,USA,Rye,100,47.5,23,Black Maple Hill
 Black Velvet Reserve Canadian Whiskey,67,Canada,Blended,14,40,8,Black Velvet
-Blanton's Single Barrel Bourbon,87,USA,Bourbon,49,47,NaN,Blanton
+Blanton's Single Barrel Bourbon,87,USA,Bourbon,49,47,,Blanton
 Booker's True Barrel Bourbon,80,USA,Bourbon,60,62,7,Booker's
-Bowman Brothers Virginia Straight Bourbon Whiskey,87,USA,Bourbon,40,45,NaN,Bowman
+Bowman Brothers Virginia Straight Bourbon Whiskey,87,USA,Bourbon,40,45,,Bowman
 Bowmore 12 Year Old Single Malt Scotch,94,Scotland,Islay,45,43,12,Bowmore
 Bowmore 15 Year Old Single Malt Scotch,99,Scotland,Islay,70,43,15,Bowmore
 Bowmore 25 Year Old Scotch,94,Scotland,Islay,190,43,25,Bowmore
 Breckenridge Bourbon Whiskey,88,USA,Bourbon,39,43,2,Breckenridge
 Buchanan's 18 Year Old Special Reserve Scotch,96,Scotland,Blended,79,43,18,Buchanan
-Buchanan's Master Blended Scotch,96,Scotland,Blended,54,40,NaN,Buchanan
-Buchanan's Red Seal Blended Scotch,90,Scotland,Blended,140,40,NaN,Buchanan
-Buffalo Trace Kentucky Straight Bourbon Whiskey,86,USA,Bourbon,24,45,NaN,Buffalo Trace
-Buffalo Trace White Dog Mash #1 Corn Whiskey,82,USA,Corn,16,62.5,NaN,Buffalo Trace
-Bulleit Bourbon Frontier Whiskey,88,USA,Bourbon,27,45,NaN,Bulleit
+Buchanan's Master Blended Scotch,96,Scotland,Blended,54,40,,Buchanan
+Buchanan's Red Seal Blended Scotch,90,Scotland,Blended,140,40,,Buchanan
+Buffalo Trace Kentucky Straight Bourbon Whiskey,86,USA,Bourbon,24,45,,Buffalo Trace
+Buffalo Trace White Dog Mash #1 Corn Whiskey,82,USA,Corn,16,62.5,,Buffalo Trace
+Bulleit Bourbon Frontier Whiskey,88,USA,Bourbon,27,45,,Bulleit
 Bunnahabhain 12 Year Old Single Malt Scotch,96,Scotland,Islay,43,46.3,12,Bunnahabhain
 Bunnahabhain 18 Year Old Single Malt Scotch,99,Scotland,Islay,92,46.3,18,Bunnahabhain
-Bunnahabhain 25,NaN,Scotland,Islay,292,46.3,25,Bunnahabhain
+Bunnahabhain 25,,Scotland,Islay,292,46.3,25,Bunnahabhain
 Bushmills 10 Year Old Single Malt Irish Whiskey,85,Ireland,Single Malt,39,40,10,Bushmills
 Bushmills 16 Year Old Single Malt Irish Whiskey,91,Ireland,Single Malt,64,40,16,Bushmills
-Bushmills 1608 Irish Whiskey Limited Edition,74,Ireland,Blended,90,46,NaN,Bushmills
+Bushmills 1608 Irish Whiskey Limited Edition,74,Ireland,Blended,90,46,,Bushmills
 Bushmills 21 Year Old Single Malt Irish Whiskey,91,Ireland,Single Malt,120,40,21,Bushmills
 Bushmills Black Bush Irish Whiskey,79,Ireland,Blended,32,40,11,Bushmills
-Bushmills Original Irish Whiskey,65,Ireland,Blended,24,40,NaN,Bushmills
+Bushmills Original Irish Whiskey,65,Ireland,Blended,24,40,,Bushmills
 Canadian Club 6 Year Old Canadian Whisky,53,Canada,Blended,12,40,6,Canadian Club
 Canadian Club Classic 12 Canadian Whisky,69,Canada,Blended,23,40,12,Canadian Club
-Canadian Club Reserve Canadian Whisky,56,Canada,Blended,16,NaN,10,Canadian Club
+Canadian Club Reserve Canadian Whisky,56,Canada,Blended,16,,10,Canadian Club
 Canadian Club Sherry Cask Canadian Whisky,71,Canada,Blended,27,40,8,Canadian Club
-Canadian Hunter Canadian Whisky,40,Canada,Blended,9,40,NaN,Canadian Hunter
-Canadian LTD Blended Canadian Whiskey,43,Canada,Blended,10,NaN,NaN,Canadian LTD
-Canadian Mist Black Diamond Canadian Whiskey,80,Canada,Rye,16,43,NaN,Canadian Mist
-Canadian Mist Blended Canadian Whisky,48,Canada,Blended,12,40,NaN,Canadian Mist
+Canadian Hunter Canadian Whisky,40,Canada,Blended,9,40,,Canadian Hunter
+Canadian LTD Blended Canadian Whiskey,43,Canada,Blended,10,,,Canadian LTD
+Canadian Mist Black Diamond Canadian Whiskey,80,Canada,Rye,16,43,,Canadian Mist
+Canadian Mist Blended Canadian Whisky,48,Canada,Blended,12,40,,Canadian Mist
 Caol Ila 12 Year Old Single Malt Scotch,86,Scotland,Islay,43,43,12,Caol Ila
-Caol Ila Single Malt Scotch Distillers Edition,99,Scotland,Islay,70,43,NaN,Caol Ila
+Caol Ila Single Malt Scotch Distillers Edition,99,Scotland,Islay,70,43,,Caol Ila
 Cardhu 12 Year Old Single Malt Scotch,99,Scotland,Highlands,45,40,12,Cardhu
-Catoctin Creek Organic Roundstone Rye Whisky,57,USA,Rye,38,40,NaN,Catoctin Creek
-Cedar Ridge Distillery Iowa Bourbon Whiskey,85,USA,Bourbon,36,40,NaN,Cedar Ridge
-Charter 101 Kentucky Straight Bourbon Whiskey,82,USA,Bourbon,19,50,NaN,Charter
+Catoctin Creek Organic Roundstone Rye Whisky,57,USA,Rye,38,40,,Catoctin Creek
+Cedar Ridge Distillery Iowa Bourbon Whiskey,85,USA,Bourbon,36,40,,Cedar Ridge
+Charter 101 Kentucky Straight Bourbon Whiskey,82,USA,Bourbon,19,50,,Charter
 Chivas Regal 18 Year Old Blended Scotch Whisky,96,Scotland,Blended,64,40,18,Chivas Regal
 Chivas Regal 25 Year Old Scotch,89,Scotland,Blended,260,40,25,Chivas Regal
-Collingwood Hand-Crafted Blended Canadian Whisky,81,Canada,Blended,28,40,NaN,Collingwood
+Collingwood Hand-Crafted Blended Canadian Whisky,81,Canada,Blended,28,40,,Collingwood
 Connemara 12 Year Old Peated Single Malt Irish Whiskey,73,Ireland,Single Malt,90,40,12,Connemara
-Connemara Cask Strength Peated Single Malt Irish Whiskey,78,Ireland,Single Malt,65,58,NaN,Connemara
-Connemara Turf Mor Irish Whiskey,88,Ireland,Single Malt,75,58,NaN,Connemara
-Corsair Pumpkin Spice Moonshine,81,USA,Flavored,35,42.5,NaN,Corsair
-Crown Royal Canadian Whisky,68,Canada,Blended,25,40,NaN,Crown Royal
-"Dalmore ""1263 King Alexander the Third"" Single Highland Malt Scotch",83,Scotland,Highlands,246,40,NaN,Dalmore
+Connemara Cask Strength Peated Single Malt Irish Whiskey,78,Ireland,Single Malt,65,58,,Connemara
+Connemara Turf Mor Irish Whiskey,88,Ireland,Single Malt,75,58,,Connemara
+Corsair Pumpkin Spice Moonshine,81,USA,Flavored,35,42.5,,Corsair
+Crown Royal Canadian Whisky,68,Canada,Blended,25,40,,Crown Royal
+"Dalmore ""1263 King Alexander the Third"" Single Highland Malt Scotch",83,Scotland,Highlands,246,40,,Dalmore
 Dalmore 18 Year Old Single Highland Malt Scotch Whisky,100,Scotland,Highlands,165,43,18,Dalmore
-Dalmore 1974 Single Highland Malt Scotch Whisky,89,Scotland,Highlands,250,42,NaN,Dalmore
+Dalmore 1974 Single Highland Malt Scotch Whisky,89,Scotland,Highlands,250,42,,Dalmore
 Dalmore 40 Year Old Single Highland Malt Scotch Whisky,94,Scotland,Highlands,2000,40,40,Dalmore
 Dalwhinnie 15 Year Old Single Malt Scotch,67,Scotland,Highlands,50,43,15,Dalwhinnie
-Danfield's Private Reserve Small Batch Canaidan Whiskey,60,Canada,Blended,25,NaN,NaN,Danfield
+Danfield's Private Reserve Small Batch Canaidan Whiskey,60,Canada,Blended,25,,,Danfield
 Deanston 12 Year Old Single Malt Scotch,92,Scotland,Highlands,47,46.3,12,Deanston
-Downslope Double Diamond Whiskey,88,USA,Blended,32,40,NaN,Downslope
+Downslope Double Diamond Whiskey,88,USA,Blended,32,40,,Downslope
 Eagle Rare 17 Year Old Single Barrel Kentucky Straight Bourbon,92,USA,Bourbon,57,45,17,Eagle
-Early Times 354 Bourbon,76,USA,Bourbon,16,40,NaN,Early Times
-Elijah Craig 18 Year Bourbon,NaN,USA,Bourbon,40,45,18,Elijah Craig
-Ellington Canadian Whisky,54,Canada,Blended,11,NaN,NaN,Ellington
+Early Times 354 Bourbon,76,USA,Bourbon,16,40,,Early Times
+Elijah Craig 18 Year Bourbon,,USA,Bourbon,40,45,18,Elijah Craig
+Ellington Canadian Whisky,54,Canada,Blended,11,,,Ellington
 Elmer T Lee Bourbon Whiskey,87,USA,Bourbon,30,45,23,Elmer T Lee
 Evan Williams 1999 Vintage Bourbon Whiskey,80,USA,Bourbon,25,43,12,Evan Williams
-Famous Grouse Blended Scotch Whisky,69,Scotland,Blended,20,40,NaN,Famous Grouse
-Feckin Irish Whiskey,64,Ireland,Blended,20,40,NaN,Feckin
-Forty Creek Barrel Select Canadian Whiskey,69,Canada,Blended,23,40,NaN,Forty Creek
-Forty Creek Confederation Oak Canadian Whiskey,92,Canada,Blended,70,40,NaN,Forty Creek
-Forty Creek Double Barrel Canadian Whiskey,88,Canada,Blended,60,40,NaN,Forty Creek
-Forty Creek John K. Hall Small Batch Reserve Whisky,67,Canada,Blended,60,40,NaN,Forty Creek
-Forty Creek Port Wood Reserve Whiskey,83,Canada,Blended,70,45,NaN,Forty Creek
+Famous Grouse Blended Scotch Whisky,69,Scotland,Blended,20,40,,Famous Grouse
+Feckin Irish Whiskey,64,Ireland,Blended,20,40,,Feckin
+Forty Creek Barrel Select Canadian Whiskey,69,Canada,Blended,23,40,,Forty Creek
+Forty Creek Confederation Oak Canadian Whiskey,92,Canada,Blended,70,40,,Forty Creek
+Forty Creek Double Barrel Canadian Whiskey,88,Canada,Blended,60,40,,Forty Creek
+Forty Creek John K. Hall Small Batch Reserve Whisky,67,Canada,Blended,60,40,,Forty Creek
+Forty Creek Port Wood Reserve Whiskey,83,Canada,Blended,70,45,,Forty Creek
 Four Roses Single Barrel Kentucky Straight Bourbon,87,USA,Bourbon,53,50,10,Four Roses
-Four Roses Small Batch Kentucky Straight Bourbon Whiskey,93,USA,Bourbon,32,45,NaN,Four Roses
-Four Roses Yellow Label Straight Bourbon,81,USA,Bourbon,20,40,NaN,Four Roses
-Garrison Brothers Texas Straight Bourbon Whiskey,88,USA,Bourbon,75,47,NaN,Garrison Brothers
+Four Roses Small Batch Kentucky Straight Bourbon Whiskey,93,USA,Bourbon,32,45,,Four Roses
+Four Roses Yellow Label Straight Bourbon,81,USA,Bourbon,20,40,,Four Roses
+Garrison Brothers Texas Straight Bourbon Whiskey,88,USA,Bourbon,75,47,,Garrison Brothers
 George Dickel Barrel Select Tennessee Whiskey,79,USA,Corn,26,43,12,George Dickel
-George Dickel Tennessee Whiskey #12,87,USA,Corn,20,45,NaN,George Dickel
-George Dickel Tennessee Whisky #8,82,USA,Corn,17,40,NaN,George Dickel
-George T. Stagg Kentucky Straight Bourbon Whiskey,96,USA,Bourbon,70,45,NaN,George T. Stagg
-"Glen Breton ""Battle of the Glen"" 15 Year Old Single Malt Canadian Whisky",77,Canada,Single Malt,NaN,43,15,Glenora
+George Dickel Tennessee Whiskey #12,87,USA,Corn,20,45,,George Dickel
+George Dickel Tennessee Whisky #8,82,USA,Corn,17,40,,George Dickel
+George T. Stagg Kentucky Straight Bourbon Whiskey,96,USA,Bourbon,70,45,,George T. Stagg
+"Glen Breton ""Battle of the Glen"" 15 Year Old Single Malt Canadian Whisky",77,Canada,Single Malt,,43,15,Glenora
 Glen Breton Rare 10 Year Old Single Malt Canadian Whisky,75,Canada,Single Malt,85,43,10,Glen Breton
-Glen Garioch Founders Reserve Scotch,99,Scotland,Highlands,45,48,NaN,Glen Garioch
+Glen Garioch Founders Reserve Scotch,99,Scotland,Highlands,45,48,,Glen Garioch
 Glen Grant 10 Year Old Single Malt Scotch,95,Scotland,Speyside,47,40,10,Glen Grant
 Glenfiddich 12 Year Old Single Malt Scotch,96,Scotland,Speyside,43,40,12,Glenfiddich
 Glenfiddich 15 Year Old Single Malt Scotch,90,Scotland,Speyside,55,40,15,Glenfiddich
 Glenfiddich 18 Year Old Single Malt Scotch,90,Scotland,Speyside,79,43,18,Glenfiddich
 Glenfiddich 21 Year Old Single Malt Scotch,93,Scotland,Speyside,133,40,21,Glenfiddich
-Glengoyne 10 Year Old Single Malt Scotch,NaN,Scotland,Highlands,NaN,NaN,10,Glengoyne
+Glengoyne 10 Year Old Single Malt Scotch,,Scotland,Highlands,,,10,Glengoyne
 Glengoyne 17 Year Old Single Malt Scotch,96,Scotland,Highlands,73,43,17,Glengoyne
 Glenlivet 15 Year Old Single Malt Scotch,92,Scotland,Speyside,45,40,15,Glenlivet
-Glenlivet 18 Year Old Single Malt Scotch,NaN,Scotland,Speyside,69,57,18,Glenlivet
+Glenlivet 18 Year Old Single Malt Scotch,,Scotland,Speyside,69,57,18,Glenlivet
 Glenlivet 18 Year Old Single Malt Scotch Whisky,90,Scotland,Speyside,70,43,18,Glenlivet
 Glenlivet 21 Year Old Single Malt Scotch,97,Scotland,Speyside,123,40,21,Glenlivet
 Glenlivet Nadurra 16 Year Old Cask Strength Single Malt Scotch Whisky,96,Scotland,Speyside,65,48,16,Glenlivet
@@ -132,29 +132,29 @@ Glenmorangie 25 Year Old Single Malt Scotch,96,Scotland,Highlands,580,43,25,Glen
 Glenmorangie Single Malt Scotch,99,Scotland,Highlands,80,46,10,Glenmorangie
 Glenrothes 1975 Single Malt Scotch,91,Scotland,Speyside,400,43,31,Glenrothes
 Glenrothes 1985 Single Malt Scotch Whisky,82,Scotland,Speyside,100,43,19,Glenrothes
-Grant's Family Reserve Blended Scotch Whisky,78,Scotland,Blended,17,40,NaN,William Grant & Sons
+Grant's Family Reserve Blended Scotch Whisky,78,Scotland,Blended,17,40,,William Grant & Sons
 Greenore 15 Year Old Single Malt Irish Whiskey,88,Ireland,Single Malt,100,43,15,Greenore
 Greenore 8 Year Old Single Grain Irish Whiskey,71,Ireland,Grain,50,43,8,Greenore
-Haig Supreme Blended Scotch,96,Scotland,Blended,25,40,NaN,Haig
-High West Double Rye Whiskey,85,USA,Rye,34,46,NaN,High West
+Haig Supreme Blended Scotch,96,Scotland,Blended,25,40,,Haig
+High West Double Rye Whiskey,85,USA,Rye,34,46,,High West
 High West Rocky Mountain Rye 21 Year Old Whiskey,82,USA,Rye,133,53,21,High West
 Highland Park 12 Year Old Orkneys Single Malt Whisky,88,Scotland,Islands,40,40,12,Highland Park
 Highland Park 18 Scotch,94,Scotland,Islands,80,43,18,Highland Park
 Highland Park 25-Year-Old Orkney Islands Single Malt Whisky,90,Scotland,Islands,240,48.1,25,Highland Park
 Highland Park 30 Scotch,96,Scotland,Islands,365,48.1,30,Highland Park
-Hudson Baby Bourbon,96,USA,Bourbon,40,46,NaN,Hudson
-Hudson Four Grain Bourbon,83,USA,Bourbon,42,46,NaN,Hudson
-Hudson Manhattan Rye,79,USA,Rye,41,46,NaN,Hudson
-Hudson New York Corn Whiskey,88,USA,Corn,35,40,NaN,Hudson
-Hudson Single Malt Whiskey,81,USA,Single Malt,43,46,NaN,Hudson
+Hudson Baby Bourbon,96,USA,Bourbon,40,46,,Hudson
+Hudson Four Grain Bourbon,83,USA,Bourbon,42,46,,Hudson
+Hudson Manhattan Rye,79,USA,Rye,41,46,,Hudson
+Hudson New York Corn Whiskey,88,USA,Corn,35,40,,Hudson
+Hudson Single Malt Whiskey,81,USA,Single Malt,43,46,,Hudson
 Isle of Jura 16 Year Old Single Malt Scotch Whisky,80,Scotland,Islands,63,43,16,Isle of Jura
 Isle of Jura 21 Year Old Single Malt Scotch,94,Scotland,Islands,140,44,21,Isle of Jura
-Isle of Jura Prophecy Scotch,91,Scotland,Islands,75,46,NaN,Isle of Jura
+Isle of Jura Prophecy Scotch,91,Scotland,Islands,75,46,,Isle of Jura
 Jack Daniel's No. 7 Whiskey,54,USA,Blended,20,40,7,Jack Daniel's
 Jameson 12 Year Old Irish Whiskey,87,Ireland,Blended,50,40,12,Jameson
 Jameson 18 Year Old Limited Reserve Irish Whiskey,73,Ireland,Blended,84,40,18,Jameson
-Jameson Irish Whiskey,65,Ireland,Blended,25,40,NaN,Jameson
-Jameson Irish Whiskey Gold Reserve,86,Ireland,Blended,61,40,NaN,Jameson
+Jameson Irish Whiskey,65,Ireland,Blended,25,40,,Jameson
+Jameson Irish Whiskey Gold Reserve,86,Ireland,Blended,61,40,,Jameson
 Jameson Rarest Reserve Whiskey,90,Ireland,Blended,256,46,18,Jameson
 Jefferson's Presidential Select,90,USA,Bourbon,90,47,17,Jefferson
 Jefferson's Select 18 Year Old Bourbon Whiskey,89,USA,Bourbon,90,47,18,Jefferson
@@ -162,14 +162,14 @@ Jim Beam Black Bourbon,86,USA,Bourbon,20,43,8,Jim Beam
 Jim Beam Kentucky Straight Bourbon Whiskey,69,USA,Bourbon,15,40,4,Jim Beam
 Jim Beam Red Stag Black Cherry Flavored Whiskey,81,USA,Flavored,18,40,4,Jim Beam
 Jim Beam Straight Rye Whiskey,57,USA,Rye,15,51,4,Jim Beam
-John L. Sullivan Irish Whiskey,86,Ireland,Blended,24,40,NaN,John L. Sullivan
+John L. Sullivan Irish Whiskey,86,Ireland,Blended,24,40,,John L. Sullivan
 Johnnie Walker Black Label Scotch Whisky,70,Scotland,Blended,45,43,12,Johnnie Walker
 Johnnie Walker Blue Label Scotch Whisky,84,Scotland,Blended,199,40,12,Johnnie Walker
 Johnnie Walker Gold Label Blended Scotch Whisky,78,Scotland,Blended,73,40,18,Johnnie Walker
 Johnnie Walker Green Label Scotch Whisky,76,Scotland,Blended,45,40,15,Johnnie Walker
-Johnnie Walker Red Label Whisky,58,Scotland,Blended,30,40,NaN,Johnnie Walker
+Johnnie Walker Red Label Whisky,58,Scotland,Blended,30,40,,Johnnie Walker
 Kansas Spirit Whiskey,88,USA,Unaged,30,40,0,Kansas Spirit
-Kellan Irish Whiskey,47,Ireland,Blended,20,40,NaN,Kellan
+Kellan Irish Whiskey,47,Ireland,Blended,20,40,,Kellan
 Kilbeggan 15 Year Old Finest Irish Whiskey,84,Ireland,Blended,100,40,15,Kilbeggan
 Kingdom 12 Year Old Scotch,96,Scotland,Blended,30,40,12,Kingdom
 Kingdom 17 Year Old Scotch,99,Scotland,Blended,50,40,17,Kingdom
@@ -180,25 +180,25 @@ Lagavulin 21 Scotch,96,Scotland,Islay,300,56.5,21,Lagavulin
 "Laphroaig 10 Year Old ""Cast Strength"" Islay Single Malt Scotch Whisky",83,Scotland,Islay,60,43,10,Laphroaig
 Laphroaig 10 Year Old Single Malt Scotch Whisky,84,Scotland,Islay,47,40,10,Laphroaig
 Laphroaig 18 Year Old Single Malt Scotch,99,Scotland,Islay,107,48,18,Laphroaig
-Laphroaig Quarter Cask Single Malt Scotch,92,Scotland,Islay,47,48,NaN,Laphroaig
+Laphroaig Quarter Cask Single Malt Scotch,92,Scotland,Islay,47,48,,Laphroaig
 Ledaig 10 Year Old Single Malt Scotch,87,Scotland,Highlands,50,43,10,Ledaig
-Leopold Bros. Maryland Style Rye Whiskey,88,USA,Rye,48,43,NaN,Leopold Bros.
-Longrow CV Campbeltown Single Malt Whisky,88,Scotland,Campbeltown,61,46,NaN,Longrow
+Leopold Bros. Maryland Style Rye Whiskey,88,USA,Rye,48,43,,Leopold Bros.
+Longrow CV Campbeltown Single Malt Whisky,88,Scotland,Campbeltown,61,46,,Longrow
 Macallan 15 Year Old Fine Oak Scotch,90,Scotland,Speyside,70,43,15,Macallan
 Macallan 21 Year Old Fine Oak Scotch Whisky,96,Scotland,Speyside,220,43,21,Macallan
 Macallan 30 Year Old Fine Oak Speyside Single Malt Whisky,88,Scotland,Speyside,850,43,30,Macallan
-Maker's Mark Bourbon 46,83,USA,Bourbon,35,47,NaN,Maker's Mark
-McAdams Canadian Whisky,NaN,Canada,Blended,8,NaN,NaN,McAdams
+Maker's Mark Bourbon 46,83,USA,Bourbon,35,47,,Maker's Mark
+McAdams Canadian Whisky,,Canada,Blended,8,,,McAdams
 Michael Collins 10 Year Old Single Malt Irish Whiskey,93,Ireland,Single Malt,39,40,10,Michael Collins
 Michael Collins Blended Irish Whiskey,77,Ireland,Blended,28,40,12,Michael Collins
 Michael Collins Single Malt Irish Whiskey,74,Ireland,Single Malt,40,40,10,Wiser's
-Mickey Finn Irish Whiskey,81,Ireland,Flavored,25,40,NaN,Mickey Finn
+Mickey Finn Irish Whiskey,81,Ireland,Flavored,25,40,,Mickey Finn
 Midleton Very Rare Irish Whiskey,91,Ireland,Blended,132,40,25,Midleton
-Noah's Mill Bourbon,99,USA,Bourbon,60,57.15,NaN,Noah's Mill
+Noah's Mill Bourbon,99,USA,Bourbon,60,57.15,,Noah's Mill
 Oban 14 Year Old Single Malt Scotch,83,Scotland,Highlands,65,43,14,Oban
 Oban 15 Year Old Single Malt Scotch,96,Scotland,Highlands,89,43,15,Oban
 Old Forester 12 Year Old Birthday Bourbon Whiskey,88,USA,Bourbon,50,47,12,Old Forester
-Old Forester Signature Kentucky Straight Bourbon Whiskey,88,USA,Bourbon,21,50,NaN,Old Forester
+Old Forester Signature Kentucky Straight Bourbon Whiskey,88,USA,Bourbon,21,50,,Old Forester
 Old Forester Straight Bourbon 86 Proof,81,USA,Bourbon,19,43,4,Old Forester
 Old Parr 12 Year Old Blended Scotch,86,Scotland,Blended,40,40,12,Old Parr
 Old Parr Superior 18 Year Old Blended Scotch Whisky,82,Scotland,Blended,100,43,18,Old Parr
@@ -206,71 +206,71 @@ Old Pulteney 12 Year Old Single Malt Scotch,92,Scotland,Highlands,40,40,12,Old P
 Old Pulteney 17 Year Old Single Malt Scotch,92,Scotland,Highlands,94,46,17,Old Pulteney
 Old Pulteney 21 Year Old Single Malt Scotch Whisky,95,Scotland,Highlands,120,46,21,Old Pulteney
 Old Pulteney 30 Year Old Single Malt Scotch,96,Scotland,Highlands,400,44,30,Old Pulteney
-Original Moonshine Corn Whiskey,88,USA,Corn,40,40,NaN,Stillhouse
-Origine Irish Whiskey,54,Ireland,Blended,17,NaN,NaN,Origine
-OYO Soft Red Winter Wheat Whiskey Single Barrel,88,USA,Grain,45,46,NaN,Middle West
-P & M Blended Whisky,81,France,Blended,40,40,NaN,P & M
-P & M Single Malt Whisky,81,France,Single Malt,60,42,NaN,P & M
+Original Moonshine Corn Whiskey,88,USA,Corn,40,40,,Stillhouse
+Origine Irish Whiskey,54,Ireland,Blended,17,,,Origine
+OYO Soft Red Winter Wheat Whiskey Single Barrel,88,USA,Grain,45,46,,Middle West
+P & M Blended Whisky,81,France,Blended,40,40,,P & M
+P & M Single Malt Whisky,81,France,Single Malt,60,42,,P & M
 Pappy Van Winkle 15 Year Old Family Reserve Whiskey,99,USA,Bourbon,58,53.5,15,Pappy Van Winkle
 Pappy Van Winkle 20 year old Family Reserve Kentucky Straight Bourbon Whiskey,94,USA,Bourbon,93,45.2,20,Pappy Van Winkle
 Parker's Heritage Bourbon,99,USA,Bourbon,80,62,15,Parker's Heritage
 Parker's Heritage Collection 10 Year Old Wheated Bourbon,96,USA,Bourbon,80,63,10,Parker's Heritage
-Penderyn Single Malt Welsh Whisky,77,England,Single Malt,70,46,NaN,Penderyn
-Pendleton Blended Canadian Whisky,56,Canada,Blended,26,40,NaN,Hood River
+Penderyn Single Malt Welsh Whisky,77,England,Single Malt,70,46,,Penderyn
+Pendleton Blended Canadian Whisky,56,Canada,Blended,26,40,,Hood River
 Powers 12 Year Old Irish Whiskey,99,Ireland,Blended,35,40,12,Powers
 Powers Gold Label Irish Whiskey,84,Ireland,Blended,25,40,12,Powers
-Prince Edward Canadian Rye,81,Canada,Rye,55,41,NaN,Price Edward
-Rebel Yell Kentucky Straight Bourbon Whiskey,99,USA,Bourbon,11,40,NaN,Rebel Yell
+Prince Edward Canadian Rye,81,Canada,Rye,55,41,,Price Edward
+Rebel Yell Kentucky Straight Bourbon Whiskey,99,USA,Bourbon,11,40,,Rebel Yell
 Redbreast 12 Year Old Irish Whiskey,96,Ireland,Pure Pot Still,40,40,12,Redbreast
 Redbreast 15 Year Old Irish Whiskey,92,Ireland,Pure Pot Still,67,46,15,Redbreast
-Rich & Rare Canadian Whisky,47,Canada,Blended,10,NaN,NaN,Rich & Rare
-Rogue Oregon Single Malt Whiskey,88,USA,Single Malt,48,40,NaN,Rogue
+Rich & Rare Canadian Whisky,47,Canada,Blended,10,,,Rich & Rare
+Rogue Oregon Single Malt Whiskey,88,USA,Single Malt,48,40,,Rogue
 Rowan's Creek Bourbon,96,USA,Bourbon,50,50.05,12,Rowan's Creek
-Royal Canadian Small Batch Canadian Whisky,79,Canada,Blended,27,40,NaN,Royal Canadian
+Royal Canadian Small Batch Canadian Whisky,79,Canada,Blended,27,40,,Royal Canadian
 Royal Salute 21 Year Old Scotch,94,Scotland,Speyside,175,40,21,Royal Salute
 Russell's Reserve 6 Year Old Straight Rye Whiskey,88,USA,Rye,27,45,6,Russell's
 Rye Dog Whiskey,96,USA,Rye,65,50,0,Delaware Phoenix
 Sazerac 18 Year Old Kentucky Straight Rye Whiskey,78,USA,Rye,75,45,18,Sazerac
 Sazerac Kentucky Straight Rye Whiskey,69,USA,Rye,27,45,6,Sazerac
 Seagram's 7 Crown Dark Honey Whiskey,81,USA,Flavored,17,35.5,7,Seagram's
-Slane Castle Irish Whiskey,50,Ireland,Blended,25,NaN,NaN,Slane Castle
+Slane Castle Irish Whiskey,50,Ireland,Blended,25,,,Slane Castle
 Smooth Ambler Exceptional White Whisky,88,USA,Unaged,28,50,0,Smooth Ambler
 Speyburn 10 Year Old Single Malt Scotch,90,Scotland,Speyside,29,43,10,Speyburn
 Springbank 15 Year Old Campbeltown Single Malt Scotch Whisky,85,Scotland,Campbeltown,95,46,15,Springbank
 Suntory Hakushu 12 Year Old Single Malt Whiskey,90,Japan,Single Malt,45,43,12,Suntory
 Suntory The Yamazaki 18 Year Old Single Malt Whiskey,99,Japan,Single Malt,120,43,18,Suntory
-Suntory Whiskey Hibiki,NaN,Japan,Blended,92,43,12,Suntory
+Suntory Whiskey Hibiki,,Japan,Blended,92,43,12,Suntory
 Talisker 1992 Single Malt Scotch,94,Scotland,Islands,68,45.82,12,Talisker
 Templeton Rye Whiskey,67,USA,Rye,35,40,4,Templeton
-Texas Crown Club Canadian Whisky,NaN,Canada,Blended,22,NaN,4,Texas Crown
+Texas Crown Club Canadian Whisky,,Canada,Blended,22,,4,Texas Crown
 The Irishman Single Malt Whiskey,81,Ireland,Single Malt,50,40,10,The Irishman
 The Singleton of Glendullan 12 Year Old Single Malt Scotch,89,Scotland,Speyside,35,40,12,Glendullan
-The Tweeddale Blend,NaN,Scotland,Blended,30,46,12,Tweeddale
-Thirteenth Colony Southern Corn Whiskey,96,USA,Corn,30,47.5,NaN,Thirteen Colony
+The Tweeddale Blend,,Scotland,Blended,30,46,12,Tweeddale
+Thirteenth Colony Southern Corn Whiskey,96,USA,Corn,30,47.5,,Thirteen Colony
 Thomas H. Handy Kentucky Straight Rye Whiskey,99,USA,Rye,67,66.4,6,Thomas H. Handy
 Tobermory 15 Year Old Single Malt Scotch,94,Scotland,Islands,108,46.3,15,Tobermory
 Tomatin 15 Year Old Single Malt Scotch,96,Scotland,Speyside,48,43,15,Tomatin
 Tomatin 18 Year Old Single Malt Scotch,96,Scotland,Speyside,62,46,18,Tomatin
-Tullamore Dew 10 Year Old Irish Reserve Whiskey,86,Ireland,Blended,NaN,40,10,Tullamore
+Tullamore Dew 10 Year Old Irish Reserve Whiskey,86,Ireland,Blended,,40,10,Tullamore
 Tullamore Dew 10 Year Old Single Malt Irish Whiskey,81,Ireland,Single Malt,69,40,10,Tullamore
 Tullamore Dew 12 Year Old Irish Special Reserve Whiskey,84,Ireland,Blended,43,40,12,Tullamore
-Tullamore Dew Irish Whiskey,70,Ireland,Blended,26,40,NaN,Tullamore
+Tullamore Dew Irish Whiskey,70,Ireland,Blended,26,40,,Tullamore
 Tyrconnell 10 Year Old Single Malt Madeira Cask Finish Irish Whiskey,100,Ireland,Single Malt,72,46,10,Tyrconnell
-Tyrconnell 10 Year Old Single Malt Sherry Cask Finish Irish Whiskey,87,Ireland,Single Malt,60,NaN,10,Tyrconnell
-Tyrconnell Single Malt Irish Whiskey,83,Ireland,Single Malt,33,NaN,NaN,Tyrconnell
+Tyrconnell 10 Year Old Single Malt Sherry Cask Finish Irish Whiskey,87,Ireland,Single Malt,60,,10,Tyrconnell
+Tyrconnell Single Malt Irish Whiskey,83,Ireland,Single Malt,33,,,Tyrconnell
 Wasmund's Copper Fox Rye Whisky,76,USA,Rye,46,45,1,Copper Fox
 "Whyte & Mackay ""Old Luxury"" 19 Year Old Aged Blended Scotch Whisky",74,Scotland,Blended,58,40,19,Whyte & Mackay
 Wild Turkey 81 Bourbon Whiskey,81,USA,Bourbon,17,41,8,Wild Turkey
 Wild Turkey Bourbon 101,77,USA,Bourbon,20,50,8,Wild Turkey
 Wild Turkey Bourbon Tradition 15 year,88,USA,Bourbon,125,50,15,Wild Turkey
-Wild Turkey Kentucky Spirit Bourbon,94,USA,Bourbon,42,50.5,NaN,Wild Turkey
-Wild Turkey Rare Breed Bourbon,90,USA,Bourbon,37,54.1,NaN,Wild Turkey
+Wild Turkey Kentucky Spirit Bourbon,94,USA,Bourbon,42,50.5,,Wild Turkey
+Wild Turkey Rare Breed Bourbon,90,USA,Bourbon,37,54.1,,Wild Turkey
 Wild Turkey Russel's Reserve Bourbon,93,USA,Bourbon,35,45,10,Wild Turkey
-William Larue Weller Bourbon,96,USA,Bourbon,65,65,NaN,William Larue Weller
+William Larue Weller Bourbon,96,USA,Bourbon,65,65,,William Larue Weller
 Wiser's 18 Year Old Canadian Whisky,67,Canada,Blended,65,40,18,Wiser's
-Wiser's Legacy Canadian Whisky,74,Canada,Blended,50,45,NaN,Wiser's
-Wiser's Small Batch Canadian Whisky,60,Canada,Rye,29,43,NaN,Wiser's
-Wolfhound Irish Whiskey,81,Ireland,Blended,25,40,NaN,Wolfhound
-Woodford Reserve Distiller's Select Bourbon,88,USA,Bourbon,34,45,NaN,Woodford Reserve
-Woodford Reserve Master's Collection Bourbon,96,USA,Bourbon,80,46.2,NaN,Woodford Reserve
+Wiser's Legacy Canadian Whisky,74,Canada,Blended,50,45,,Wiser's
+Wiser's Small Batch Canadian Whisky,60,Canada,Rye,29,43,,Wiser's
+Wolfhound Irish Whiskey,81,Ireland,Blended,25,40,,Wolfhound
+Woodford Reserve Distiller's Select Bourbon,88,USA,Bourbon,34,45,,Woodford Reserve
+Woodford Reserve Master's Collection Bourbon,96,USA,Bourbon,80,46.2,,Woodford Reserve
 Yamazaki Single Malt 12-Year Whisky,86,Japan,Single Malt,43,43,12,Yamazaki
